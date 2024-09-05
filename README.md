@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Jon and I'm an ecosystem ecologist and biogeochemist.
+You can find my current work here and on my website, https://www.jongewirtzman.com/. 
 <!--
 **jgewirtzman/jgewirtzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
